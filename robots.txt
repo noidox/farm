@@ -2,3 +2,4 @@ User-agent: Googlebot
 User-agent: AdsBot-Google
 User-agent: *
 Disallow: /
+Disallow: /index.html
